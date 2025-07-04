@@ -171,7 +171,12 @@
     background-color: rgb(247, 247, 247);
 }
 
-@media (max-width: 750px) {
+@media (max-width: 500px) {
+    .video-grid{
+        grid-template-columns: 1fr;
+    }
+}
+@media (min-width: 501px) and (max-width: 750px) {
     .video-grid{
         grid-template-columns: 1fr 1fr;
     }
