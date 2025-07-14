@@ -16,6 +16,12 @@ This is a **responsive frontend UI project** inspired by popular video streaming
 
 ---
 
+## 🔗 Live Demo
+
+Check it out here 👉 [https://clone-proj1.vercel.app](https://clone-proj1.vercel.app)
+
+---
+
 ## 🧱 Tech Stack
 
 - HTML5
